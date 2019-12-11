@@ -16,3 +16,7 @@ Simply:
 - check if you can register customer with URL in name, if not everything is OK   
 
 This is fixed in Prestashop from 1.7.6. There is no sense to use this in versions greater than 1.7.5.2.
+
+## Screenshot
+
+![Screeshot of module](https://github.com/RyzuOPs/fixurlincustomername/blob/master/shot1.png)
