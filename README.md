@@ -1,6 +1,6 @@
 # fixurlincustomername
 
-Module for Prestashop 1.7 overriding isName() function in Validate.php, to prevent web robots from registering accounts with URLs in the name.
+Module for Prestashop 1.7 overrideing isName() function in Validate.php, to prevent web robots from registering accounts with URLs in the name.
 
 Module is inspired by this and here you can get more informations: https://github.com/PrestaShop/PrestaShop/pull/13549
 
