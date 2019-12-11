@@ -4,6 +4,10 @@ Module for Prestashop 1.7 overriding isName() function in Validate.php, to preve
 
 Module is inspired by this and here you can get more informations: https://github.com/PrestaShop/PrestaShop/pull/13549
 
+## Download
+
+You can download module here: [fixurlincustomername.zip](https://github.com/RyzuOPs/fixurlincustomername/releases/download/1.0/fixurlincustomername.zip)
+
 ## Use
 
 Simply:
